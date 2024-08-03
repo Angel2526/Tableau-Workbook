@@ -1,5 +1,4 @@
-# Tableau Workbook: Basic Visualization ###################### ![image](https://github.com/user-attachments/assets/9c8cd85f-6f56-40dc-a8a3-dd7ac2699601)
-
+# Tableau Workbook: Basic Visualization📉
 
 ## Title: Introduction to Basic Tableau Visualizations
 
