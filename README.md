@@ -4,8 +4,24 @@
 
 ### Description
 
-Provides an overview of the workbook’s purpose and a brief introduction to Tableau’s basic functionalities.
+Tableau is a powerful data visualization tool used to convert raw data into an understandable format. It offers various functionalities to help users analyze and visualize their data efficiently.
 
+
+### Tableau’s Basic Functionalities
+
+🔹 Connecting to Data:
+      Connect to various data sources, such as Excel files, SQL databases, and cloud services. 
+🔹 Data Preparation:
+      Use Tableau’s tools to clean and prepare data by renaming fields, changing data types, and creating calculated fields.
+🔹Creating Visualizations:
+      Utilize Tableau’s drag-and-drop interface to create various visualizations, including bar charts, line charts, scatter plots, and maps.
+🔹Using Sheets:
+      Each sheet represents a different visualization or analysis view, allowing exploration of various aspects of the data.
+🔹Building Dashboards:
+      Combine multiple visualizations into interactive dashboards for a comprehensive analysis.
+🔹Interactive Elements:
+      Enhance user experience with filters, parameters, and actions, allowing users to interact with and explore the data.
+      
      ⭕ First Basic Dashboard : Sales Insights 
 ![image](https://github.com/user-attachments/assets/4d085f76-f00d-4d1c-a083-2cd6e2f1bc0a)
 
