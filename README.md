@@ -36,7 +36,7 @@ Tableau is a powerful data visualization tool used to convert raw data into an u
 
      ⭕ Simple Map
 ![image](https://github.com/user-attachments/assets/333b8587-f2ef-49e1-99d1-83dd3f5c6b85)
-The map displays sales figures for each state in the U.S having the highest sales, and varying colors likely indicating different profit margins.
+The map shows sales figures for each state in the U.S. with varying colors likely representing different profit margins.
 
 
 
